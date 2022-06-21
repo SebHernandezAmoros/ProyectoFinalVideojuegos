@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Eclipse.unity
+    guid: 446d4ce3ec6c9d34ab3f775d33b65429
+  - enabled: 1
+    path: Assets/Scenes/Capitule 1.unity
+    guid: da8f9c71ef77ef142b21395ccc2aea8f
+  - enabled: 1
+    path: Assets/Scenes/Capitule 1 Game.unity
+    guid: 860b6384b62c51648b94c869b8cd55d4
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 93a2601f6af5e504dbd4991bcb656026
+  m_configObjects: {}
